@@ -1,0 +1,17 @@
+# MATLAB 临时文件
+*.asv
+*.m~
+*.mat
+*.fig
+*.mex*
+slprj/
+
+# 你的程序生成的日志文件夹 (重要)
+hc_spgd_pointing_logs/
+
+# 避免上传实验数据 CSV
+*.csv
+
+# 系统垃圾文件
+.DS_Store
+Thumbs.db
